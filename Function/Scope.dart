@@ -1,5 +1,5 @@
 // Scope
-String text = "Im a Internet, Anyone in this world can access me!";
+String text = "Aku Internet, semua bisa mengakses ku";
 void main () {
   print(text);
 }
